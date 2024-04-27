@@ -1,1 +1,1 @@
-Official bot of @GGLVXD
+Official bot of [@GGLVXD](https://github.com/gglvxd)
